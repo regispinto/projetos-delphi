@@ -1,0 +1,31 @@
+[26/07/2022 - 16:50:46] - CREATE TABLE clientes (
+CodigoCliente int(8) primary key auto_increment, 
+Nome varchar(30) not null, 
+Cidade varchar (20) not null, 
+UF char(2) not null) 
+auto_increment = 1, 
+default charset = utf8
+[26/07/2022 - 16:50:46] - Tabela CLIENTES criada com sucesso
+[26/07/2022 - 16:51:20] - CREATE TABLE clientes (
+CodigoCliente int(8) primary key auto_increment, 
+Nome varchar(30) not null, 
+Cidade varchar (20) not null, 
+UF char(2) not null) 
+auto_increment = 1, 
+default charset = utf8
+[26/07/2022 - 16:54:44] - CREATE TABLE clientes (
+CodigoCliente int(8) primary key auto_increment, 
+Nome varchar(30) not null, 
+Cidade varchar (20) not null, 
+UF char(2) not null) 
+auto_increment = 1, 
+default charset = utf8
+[26/07/2022 - 16:54:48] - Tabela CLIENTES criada com sucesso
+[26/07/2022 - 17:08:57] - CREATE TABLE clientes (
+CodigoCliente int(8) primary key auto_increment, 
+Nome varchar(30) not null, 
+Cidade varchar (20) not null, 
+UF char(2) not null) 
+auto_increment = 1, 
+default charset = utf8
+[26/07/2022 - 17:09:01] - Tabela CLIENTES criada com sucesso
