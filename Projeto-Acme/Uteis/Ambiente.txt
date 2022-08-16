@@ -1,0 +1,18 @@
+-> Your password for IBExpert download center
+	username for IBExpert download center:regispinto65@gmail.com
+	password for IBExpert download center:Rgs220399
+	IBExpert Downloadcenter 3.0 : www.ibexpert.net/downloadcenter/
+
+--> Delphi Community Edition
+	Thank you for choosing Embarcadero's award-winning Delphi Community Edition. You have joined the millions of developers worldwide who are creating amazing apps with our tools. We appreciate your business and welcome you to our community.
+	This is a resend of your product activation information. Please register your Embarcadero product using the serial number provided.
+
+	Product: Delphi 10.4.2 Sydney Community Edition
+	Serial Number(s): J4HL-79ADX5-DUX56V-A59D
+	Login Name: regispinto
+	First Name: Régis
+	Last Name: Silveira Pinto
+	
+	If you haven’t already downloaded the software or need to download again, click the link below:
+	Delphi 10.4.2 Sydney
+	https://altd.embarcadero.com/download/radstudio/10.4/RADStudio-1042-esd-4203.exe
